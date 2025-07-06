@@ -1,5 +1,10 @@
 # Energy-balance python codes
 
+
+
+
+
+
 data files:-
 13-copy -> Orginal excell data file unscalled 2024
 14 -copy -> Scaled 90% penetration renewable generation
