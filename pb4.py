@@ -310,7 +310,7 @@ if __name__ == "__main__":
     fixed_battery1_capacity_MWh = 82000.0
     fixed_battery1_power_MW = 20000.0 
     # BESS2 (Secondary LONG TERM STORAGE)
-    fixed_battery2_capacity_MWh = 25000000
+    fixed_battery2_capacity_MWh = 6767327.04
     fixed_battery2_power_MW = 18700
     
     print(f"\nRunning simulation with two fixed battery systems:")
