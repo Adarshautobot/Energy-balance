@@ -53,7 +53,7 @@ def get_battery_params():
     battery_soc_min = 0.1
     # Initial SOC for both batteries
     battery1_soc_init = 1 
-    battery2_soc_init = 1 
+    battery2_soc_init = 0.1
     battery1_charge_eff = 0.894
     battery1_discharge_eff = 0.894
     battery2_charge_eff = 0.6324
